@@ -8,6 +8,10 @@ body {
   margin-top: 100px;
 }
 
+.extra-margin-md {
+  margin-top: 50px;
+}
+
 .card {
   padding: 15px;
   margin: 20px;
